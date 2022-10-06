@@ -1,5 +1,4 @@
-
-﻿absl-py==1.2.0
+absl-py==1.2.0
 aes==1.0.0
 asgiref==3.5.0
 asttokens==2.0.5
