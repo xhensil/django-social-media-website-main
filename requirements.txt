@@ -86,7 +86,6 @@ pyngrok==5.1.0
 pyOpenSSL==22.0.0
 pyparsing==3.0.7
 pyperclip==1.8.2
-pypiwin32==223
 PyPrind==2.11.3
 PyRect==0.2.0
 PyScreeze==0.1.28
